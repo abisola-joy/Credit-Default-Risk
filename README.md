@@ -42,4 +42,4 @@ bash
 Copy code
 python main.py -->
 ## Results
-The performance of the models is detailed in the evaluation section, showing a comparison between individual and ensemble models. The proposed model outperforms traditional methods and is validated against baseline results from previous research.
+The performance of the models is detailed in the evaluation section, showing a comparison between individual and ensemble models. The proposed model outperforms traditional methods and is validated against baseline results from previous research, all of which can be found in the projects documentation (*not included*)
