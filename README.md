@@ -41,5 +41,5 @@ Run the Application: Execute the main script to start the application:
 bash
 Copy code
 python main.py -->
-Results
+## Results
 The performance of the models is detailed in the evaluation section, showing a comparison between individual and ensemble models. The proposed model outperforms traditional methods and is validated against baseline results from previous research.
